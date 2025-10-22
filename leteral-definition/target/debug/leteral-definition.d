@@ -1,0 +1,1 @@
+/home/iusearch/Documents/learning/programming/rust-dungeon/leteral-definition/target/debug/leteral-definition: /home/iusearch/Documents/learning/programming/rust-dungeon/leteral-definition/src/main.rs
