@@ -1,6 +1,7 @@
 # LEARN RUST PROGRAMMING LANGUAGE
 
 ### DONE:
-- Leteral Declaration
+- Variable Declaration
 - Branching Statement
 - Looping Statement
+- Matching Statement
