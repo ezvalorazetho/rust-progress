@@ -4,7 +4,7 @@ fn main() {
     println!("let name = \"John Doe\"; // definition without mutability");
     println!("let mut name = \"John Doe\"; // definition with mutaibility");
 
-    let name1 = "John Doe";         // Don't change value using assignment definition because an error will
+    let name1 = "John Doe";         // Don't change value using assignment because an error will
                                     // occur
     
     //name1 = "John Wick"             // This will throw an error, because all the compiler knows at this
