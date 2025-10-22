@@ -1,5 +1,5 @@
 fn main() {
-    println!("Learning Variable Definition / Leteral Definition");
+    println!("Learning Variable Definition");
     println!("==================================================");
     println!("let name = \"John Doe\"; // definition without mutability");
     println!("let mut name = \"John Doe\"; // definition with mutaibility");
